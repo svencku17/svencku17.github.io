@@ -54,24 +54,29 @@ main{
 	font-family:'Montserrat', sans-serif;
 	text-align: center;
 }
-
+#stories-top-left {
+	display: inline-block;
+	width: 600px;
+}
 #stories-top-left p{
 	font-size: 15px;
 	text-align: left;
 	display: inline-block;
-	width: 600px;
+	
 }
 
-#stories-top-right img{
-	width: 150px;
+#stories-top-right {
+	width: 300px;
 	float: right;
 	margin: 0;
 	
 }
-
+#stories-top-right img{
+	width: 300px;
+}
 
 #main-top{
-	height: 400px;
+	height: 250px;
 	margin-top: 40px;
 }
 #main-top-left{
@@ -98,6 +103,14 @@ main{
 	display: inline-block;
 }
 
+#contact-bottom img {
+	width: 400px;
+	padding-left: 290px;
+	padding-bottom: 200px;
+	
+	
+	
+}
 .home-pic {
 	height: 350px;
 }
