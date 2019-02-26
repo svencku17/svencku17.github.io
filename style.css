@@ -1,0 +1,135 @@
+body {
+	background-color: #191919;
+	margin: 0;
+}
+.logo {
+  text-align: center;
+}
+#container {
+	background-color: #f9d6e3;
+	width: 1000px;
+	margin: 0 auto;
+}
+header{
+	background-color: #f79b9b;
+	font-family: 'Montserrat', sans-serif;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 86px;
+  text-decoration: none;
+}
+main{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#name h2{
+	font-size: 30px;
+	text-align: center;
+}
+#contact-top-right h2{
+	font-size: 25px;
+	font-family:'Montserrat', sans-serif;
+	text-align: center;
+}
+
+#stories-top-left p{
+	font-size: 15px;
+	text-align: left;
+	display: inline-block;
+	width: 600px;
+}
+
+#stories-top-right img{
+	width: 150px;
+	float: right;
+	margin: 0;
+	
+}
+
+
+#main-top{
+	height: 400px;
+	margin-top: 40px;
+}
+#main-top-left{
+	float:left;
+	width: 300px;
+}
+#main-top-left p{
+	font-size: 36px;
+	margin-top: 10px;
+	text-align: left;
+}
+#main-top-right{
+	width: 600px;
+	float: right;
+}
+#about-top-right{
+	width: 300px;
+	float: right;
+}
+	
+	
+#about-top-left{
+	width: 600px;
+	display: inline-block;
+}
+
+.home-pic {
+	height: 350px;
+}
+.About-pic {
+	height: 350px;
+	float: right;
+	margin: 0;
+	
+}
+
+#main-bottom div{
+	margin-bottom: 20px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 50px;
+}
+#main-bottom quotes{
+
+}
+footer {
+	text-align: center;
+	font-weight: bold;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background-color: #91a0ba;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
