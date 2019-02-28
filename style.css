@@ -76,7 +76,7 @@ main{
 }
 
 #main-top{
-	height: 250px;
+	height: 480px;
 	margin-top: 40px;
 }
 #main-top-left{
@@ -122,12 +122,12 @@ main{
 }
 
 #main-bottom div{
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 	font-family: 'Montserrat', sans-serif;
-	font-size: 50px;
+	font-size: 45px;
 }
 #main-bottom quotes{
-
+	
 }
 footer {
 	text-align: center;
